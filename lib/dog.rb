@@ -4,5 +4,10 @@ class Person
       @name = name
     end
 
+    def name=(names)
+      @name = names
 
+    def name
+      @name
+    end  
 end
