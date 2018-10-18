@@ -6,7 +6,7 @@ class Person
 
     def name=(names)
       @name = names
-    end  
+    end
 
     def name
       @name
